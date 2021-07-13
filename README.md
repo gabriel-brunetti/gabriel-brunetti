@@ -8,9 +8,9 @@ I'm alwyas into learning something new, EUIV + FIFA player, and a home studio pr
 
 ## Coding Activity
 
-<a href="https://github.com/anuraghazra/github-readme-stats" >
+<p align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight" />
-</a>
+</p>
 
 
 <!--
