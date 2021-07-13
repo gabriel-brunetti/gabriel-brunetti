@@ -5,17 +5,17 @@ hi! I'm Gabriel - a Fullstack web developer, with a frontend focus. I've previou
 <br>
 I'm alwyas into learning something new, EUIV + FIFA player, and a home studio producer.
 
-## Technologies
-Talk to me about
-- Front-end development using **React, VanillaJS**
-- Backend development using **Node, Express, PHP, Laravel**
+## technologies
+talk to me about
+- front-end development using **React, VanillaJS**
+- backend development using **Node, Express, PHP, Laravel**
 - UI/UX design
-- Mixing graphic design into web development
-- **Relational Database Systems**
+- mixing graphic design into web development
+- **relational database systems**
 
-## Contact Me
-- LinkedIn - [Gabriel Brunetti](https://www.linkedin.com/in/gabriel-brunetti/)
-- Email - [Email](gabriel.brunetti1@gmail.com)
+## contact Me
+- linkedIn - [Gabriel Brunetti](https://www.linkedin.com/in/gabriel-brunetti/)
+- email - [Email](gabriel.brunetti1@gmail.com)
 
 ## coding Activity
 <p align="justify" >
