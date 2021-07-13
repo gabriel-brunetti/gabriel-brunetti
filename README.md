@@ -1,7 +1,7 @@
 ## gabriel brunetti -- @gabriel-brunetti
 
 ## about
-<p align='justify'> hi! I'm Gabriel - a Fullstack web developer, with a frontend focus. I've previously worked as a teacher at Digital House Brazil, where I've helped dozens of people enter and discover the joys of the coding universe, like I've did on the same school.<br>I'm alwyas into learning something new, EUIV + FIFA player, and a home studio </p> producer.
+<p align='justify'> hi! I'm Gabriel - a Fullstack web developer, with a frontend focus. I've previously worked as a teacher at Digital House Brazil, where I've helped dozens of people enter and discover the joys of the coding universe, like I've did on the same school.<br>I'm alwyas into learning something new, EUIV + FIFA player, and a home studio producer. </p> 
 
 ## technologies
 talk to me about
