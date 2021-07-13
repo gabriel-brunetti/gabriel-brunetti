@@ -6,6 +6,7 @@ I'm alwyas into learning something new, EUIV + FIFA player, and a home studio pr
 
 ## 
 
+## Coding Activity
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
