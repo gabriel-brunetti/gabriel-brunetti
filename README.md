@@ -10,7 +10,8 @@ I'm alwyas into learning something new, EUIV + FIFA player, and a home studio pr
 <a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-brunetti&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-brunetti&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
