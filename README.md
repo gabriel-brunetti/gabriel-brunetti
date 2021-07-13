@@ -9,7 +9,7 @@ I'm alwyas into learning something new, EUIV + FIFA player, and a home studio pr
 ## Coding Activity
 
 <p align="center" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight" />
 </p>
 
 
