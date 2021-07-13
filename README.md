@@ -15,7 +15,7 @@ Talk to me about
 
 ### Contact Me
 - LinkedIn - [Gabriel Brunetti](https://www.linkedin.com/in/gabriel-brunetti/)
-- Email - [Gmail](gabriel.brunetti1@gmail.com)
+- Email - [Email](gabriel.brunetti1@gmail.com)
 
 ### coding Activity
 <p align="justify" >
