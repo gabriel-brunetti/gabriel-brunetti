@@ -11,8 +11,6 @@ I'm alwyas into learning something new, EUIV + FIFA player, and a home studio pr
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-brunetti&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **gabriel-brunetti/gabriel-brunetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
