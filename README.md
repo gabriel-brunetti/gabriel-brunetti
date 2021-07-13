@@ -1,6 +1,6 @@
 ### Gabriel Brunetti - @gabriel-brunetti 👋
 
-Hi! I'm Gabriel - a full stack web developer, with a front-end focus. I've previously worked as a teacher at Digital House Brazil, where I've helped dozens of people enter and discover the joys of the coding universe, like I've did on the same school.
+Hi! I'm Gabriel - a Fullstack web developer, with a frontend focus. I've previously worked as a teacher at Digital House Brazil, where I've helped dozens of people enter and discover the joys of the coding universe, like I've did on the same school.
 <br>
 Due to my architecture background, I naturally bring another look into development, where design thinking, usability and aesthetics aspects are part of the coding process since it's concepction. <br>
 I'm alwyas into learning something new, EUIV + FIFA player, and a home studio producer.
@@ -9,7 +9,7 @@ I'm alwyas into learning something new, EUIV + FIFA player, and a home studio pr
 
 ## Coding Activity
 
-<p align="center" >
+<p align="justify" >
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight" />
 </p>
 
