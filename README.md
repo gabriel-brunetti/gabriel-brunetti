@@ -12,8 +12,8 @@ talk to me about
 - **relational database systems**
 
 ## contact Me
-- linkedIn - [Gabriel Brunetti](https://www.linkedin.com/in/gabriel-brunetti/)
-- email - [Email](gabriel.brunetti1@gmail.com)
+- [linkedin](https://www.linkedin.com/in/gabriel-brunetti/)
+- [email](gabriel.brunetti1@gmail.com)
 
 ## coding Activity
 <p align="justify" >
