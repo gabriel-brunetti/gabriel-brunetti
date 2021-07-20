@@ -8,8 +8,7 @@ talk to me about
 - front-end development using **React, VanillaJS**
 - backend development using **Node, Express, PHP, Laravel**
 - UI/UX design
-- mixing graphic design into web development
-- **relational database systems**
+- graphic design and web development
 
 ## contact Me
 - [linkedin](https://www.linkedin.com/in/gabriel-brunetti/)
