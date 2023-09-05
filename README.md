@@ -5,7 +5,7 @@
 
 ## technologies
 talk to me about
-- front-end development using **React, VanillaJS**
+- front-end development using **React, Angular, VanillaJS**
 - backend development using **Node, Express, PHP, Laravel**
 - UI/UX design
 - graphic design and web development
