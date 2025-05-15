@@ -26,10 +26,11 @@ talk to me about
 - [linkedin](https://www.linkedin.com/in/gabriel-brunetti/)
 - [email](gabriel.brunetti1@gmail.com)
 
-## coding Activity
+<!--## coding Activity
 <p align="justify" >
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-brunetti&count_private=true&show_icons=true&theme=material-palenight" />
 </p>
+-->
 
 
 <!--
