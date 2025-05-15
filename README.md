@@ -1,11 +1,23 @@
 ## gabriel brunetti -- @gabriel-brunetti
 
 ## about
-<p align='justify'> hi! I'm Gabriel - a fullstack web developer, with a frontend focus. Nowadays I'm working with news outlets, corporate websites and side projects as a freelancer. I've previously worked as a teacher at Digital House Brazil, where I've helped dozens of people enter and discover the joys of the coding universe, like I've did at the same school.<br>I'm always into learning something new, EUIV + FIFA player, and a home studio producer. </p> 
+<p align='justify'> Frontend Engineer specialized in scalable, accessible, high-performance web applications.
+
+With over four years of experience, I help companies turn digital products into more efficient, accessible, and scalable platforms. I have worked with organizations such as Johnson & Johnson, Omelete&Co, and CCXP.
+
+🚀 What I bring to the table:
+- Development of design systems using React, Stitches, and Storybook
+- WCAG accessibility guidelines applied to 10+ real-world applications
+- Performance improvements and accessibility enhancements for high-traffic websites (+2M users/month)
+- Scalable frontend architecture with reusable components and micro-frontends
+- Strong collaboration with cross-functional teams (Product, UX, Marketing)
+
+🛠️ Core stack:
+React, TypeScript, Next.js, Node.js, Jest, Docker, Redis, PostgreSQL, Figma, CI/CD, SEO<br>I'm always into learning something new, EUIV + FIFA player, and a home studio producer. </p> 
 
 ## technologies
 talk to me about
-- front-end development using **React, Angular, Javascript, NextJS**
+- front-end development using **React, Angular, JavaScript, NextJS**
 - backend development using **Node, Express, NextJS**
 - UI/UX design
 - graphic design and web development
