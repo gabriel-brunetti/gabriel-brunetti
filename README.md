@@ -5,8 +5,8 @@
 
 ## technologies
 talk to me about
-- front-end development using **React, Angular, VanillaJS**
-- backend development using **Node, Express, PHP, Laravel**
+- front-end development using **React, Angular, Javascript, NextJS**
+- backend development using **Node, Express, NextJS**
 - UI/UX design
 - graphic design and web development
 
